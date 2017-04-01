@@ -1,2 +1,6 @@
 node_modules
+<<<<<<< HEAD
 index_bundle.js
+=======
+index_bundle.js
+>>>>>>> 0206dd4a491b41663b590276b6ebd60a5ef41bed
