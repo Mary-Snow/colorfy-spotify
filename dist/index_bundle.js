@@ -9631,6 +9631,12 @@ var Canvas = function (_Component) {
   _createClass(Canvas, [{
     key: 'render',
     value: function render() {
+      var styles = {
+        height: '700px',
+        width: '1400px',
+        bakgroundColor: 'pink',
+        position: 'relative'
+      };
       return _react2.default.createElement(
         'div',
         { id: 'canvas', style: { height: '700px', width: '1400px', backgroundColor: 'pink', position: 'relative' } },
